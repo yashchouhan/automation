@@ -1,1 +1,5 @@
-testing
+my name is yash.. learning git.
+
+let practice more and learn
+
+git commands
