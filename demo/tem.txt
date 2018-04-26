@@ -1,5 +1,8 @@
 my name is yash.. learning git.
 
 let practice more and learn
+<<<<<<< HEAD
 
 git commands
+=======
+>>>>>>> 7753d6e6b71065ffc0cedae622cf316945960374
